@@ -2,6 +2,7 @@ package emanuele.w3d2.entities;
 
 import java.util.Date;
 
+import emanuele.w3d2.designPatterns.AdapterUser;
 import lombok.AllArgsConstructor;
 
 
